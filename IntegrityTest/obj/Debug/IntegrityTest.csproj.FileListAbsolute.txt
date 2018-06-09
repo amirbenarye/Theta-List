@@ -1,0 +1,10 @@
+c:\users\amirbenarye\source\repos\ThetaList\IntegrityTest\bin\Debug\IntegrityTest.exe.config
+c:\users\amirbenarye\source\repos\ThetaList\IntegrityTest\bin\Debug\IntegrityTest.exe
+c:\users\amirbenarye\source\repos\ThetaList\IntegrityTest\bin\Debug\IntegrityTest.pdb
+c:\users\amirbenarye\source\repos\ThetaList\IntegrityTest\bin\Debug\ThetaList.dll
+c:\users\amirbenarye\source\repos\ThetaList\IntegrityTest\bin\Debug\ThetaList.pdb
+c:\users\amirbenarye\source\repos\ThetaList\IntegrityTest\obj\Debug\IntegrityTest.csprojResolveAssemblyReference.cache
+c:\users\amirbenarye\source\repos\ThetaList\IntegrityTest\obj\Debug\IntegrityTest.csproj.CoreCompileInputs.cache
+c:\users\amirbenarye\source\repos\ThetaList\IntegrityTest\obj\Debug\IntegrityTest.csproj.CopyComplete
+c:\users\amirbenarye\source\repos\ThetaList\IntegrityTest\obj\Debug\IntegrityTest.exe
+c:\users\amirbenarye\source\repos\ThetaList\IntegrityTest\obj\Debug\IntegrityTest.pdb

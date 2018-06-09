@@ -1,0 +1,6 @@
+c:\users\amirbenarye\source\repos\ThetaList\ThetaList\bin\Debug\ThetaList.dll
+c:\users\amirbenarye\source\repos\ThetaList\ThetaList\bin\Debug\ThetaList.pdb
+c:\users\amirbenarye\source\repos\ThetaList\ThetaList\obj\Debug\ThetaList.csprojResolveAssemblyReference.cache
+c:\users\amirbenarye\source\repos\ThetaList\ThetaList\obj\Debug\ThetaList.csproj.CoreCompileInputs.cache
+c:\users\amirbenarye\source\repos\ThetaList\ThetaList\obj\Debug\ThetaList.dll
+c:\users\amirbenarye\source\repos\ThetaList\ThetaList\obj\Debug\ThetaList.pdb
