@@ -2,7 +2,7 @@
 
 A neat data structure that combines the best properties of array lists and red-black trees. it was created to be used in [Graph And Chart](http://u3d.as/FAT)
 
-Array lists are a great data structure , They have very fast lookup no size limit and are very cache friendly. Their down side is when removing or inserting items. for example if we have an array list with 1 million objects the following code may take several hours to complete:
+Array lists are a great data structure , They have very fast lookup, no size limit and are very cache friendly. Their down side is when removing or inserting items. for example if we have an array list with 1 million objects the following code may take several hours to complete:
 
 `for(int i=0; i<1000000; i++)	
 	list.Insert(0,i); `
