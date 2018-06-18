@@ -117,6 +117,8 @@ namespace ThetaList
                 }
             }
             mCount = newCount;
+            for (int i = mCount; i < mData.Length; i++)
+                mData[i] = default(T);
         }
 
         void ValidateIndex(int index)
